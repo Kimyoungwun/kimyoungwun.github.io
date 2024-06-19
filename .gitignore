@@ -1,12 +1,5 @@
-_site
+*.gem
+.bundle
 .sass-cache
-.jekyll-metadata
-
-### CodeKit ###
-# General CodeKit files to ignore
-config.codekit
-/min
-
-### CodeKit Patch ###
-*/codekit-config.json
-.codekit-cache
+_site
+Gemfile.lock

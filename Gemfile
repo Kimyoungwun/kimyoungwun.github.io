@@ -1,3 +1,6 @@
-source "https://rubygems.org"
+# frozen_string_literal: true
 
-gem "jekyll"
+source "https://rubygems.org"
+gemspec
+gem "github-pages", group: :jekyll_plugins
+
