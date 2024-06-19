@@ -10,7 +10,7 @@ banner:
   loop: true
   volume: 0.8
   start_at: 8.5
-  image: https://bit.ly/3xTmdUP
+  image: https://upload.wikimedia.org/wikipedia/ko/9/9e/%EB%82%A0%EC%94%A8%EC%9D%98_%EC%95%84%EC%9D%B4_%ED%8F%AC%EC%8A%A4%ED%84%B0.jpg
   opacity: 0.618
   background: "#000"
   height: "100vh"
